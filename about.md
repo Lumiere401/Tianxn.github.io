@@ -3,25 +3,18 @@ layout: inner
 title: About
 permalink: /about/
 ---
-## Markdown
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# About me 
 
-[Link to another page](/index.html).
+Hello and welcome to my corner of the internet! I'm Xuening Tian, pronounced as Schuening and I'm delighted to have you here. Let me share a bit about myself.
 
-There should be whitespace between paragraphs.
+## Who Am I?
 
-# Header 1
+I'm a second-year master's student with a deep passion for XR and Computer Vision in Sweden now. I've always been fascinated by media mediums in which things can be visualized, and I love playing billiards and board games in my free time. And also for working out and snowboard skiing, I find joy in every moment of it.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### My Journey
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
+After living in my hometown, Harbin, a mega-city located in the northeast of China, for 18 years and completing my high school education, I went to start my bachelor's at Chongqing University of Posts and Telecommunication.
 
 {% highlight js %}
 // Javascript code with syntax highlighting.
