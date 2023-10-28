@@ -10,11 +10,15 @@ Hello and welcome to my corner of the internet! I'm Xuening Tian, pronounced as 
 
 ## Who Am I?
 
-I'm a second-year master's student with a deep passion for XR and Computer Vision in Sweden now. I've always been fascinated by media mediums in which things can be visualized, and I love playing billiards and board games in my free time. And also for working out and snowboard skiing, I find joy in every moment of it.
+I'm currently a second-year master's student with a deep passion for XR and Computer Vision in Sweden. I've always been fascinated by digital technology in which things can be visualized, and I love playing billiards and board games in my free time. Also for working out and snowboard skiing, I find joy in every moment of it.
 
 ### My Journey
 
-After living in my hometown, Harbin, a mega-city located in the northeast of China, for 18 years and completing my high school education, I went to start my bachelor's at Chongqing University of Posts and Telecommunication.
+After living in my hometown, Harbin, a mega-city located in the northeast of China, for 18 years and completing my high school education, I went to start my bachelor's at Chongqing University of Posts and Telecommunication. It was during that time that I was greatly interested in Computer Vision.
+\\
+After graduating with honors and having my first internship in 2021, I started my first master's studies at Kunming University of Science and Technology. Also during this period, I started my research on Pedestrian Re-identification (ReID). For me, exploring unknown areas is really an enjoyable work. 
+\\
+However, things don't always go smoothly. When I doing my first master I was always doubtful for myself that I'd only learned the theory but I hadn't had much chance to apply it to real projects. So then, I found this incredible program at Lund University and that's what made me who I am now.
 
 {% highlight js %}
 // Javascript code with syntax highlighting.
