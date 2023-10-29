@@ -66,9 +66,6 @@ However, things don't always go smoothly. When I doing my first master I was alw
   - level 2 item
 - level 1 item
 
-### Wide image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 
