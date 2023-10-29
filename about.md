@@ -19,6 +19,10 @@ However, things don't always go smoothly. When I doing my first master I was alw
 
 ### What I am doing right now?
 
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+{% endhighlight %}
 
 ##### Header 5
 
