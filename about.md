@@ -20,12 +20,6 @@ However, things don't always go smoothly. When I doing my first master I was alw
 ### What I am doing right now?
 
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
 ##### Header 5
 
 1.  This is an ordered list following a header.
