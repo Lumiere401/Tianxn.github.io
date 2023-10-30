@@ -1,4 +1,8 @@
-
+---
+layout: inner
+title: About
+permalink: /about/
+---
 # About me 
 
 Hello and welcome to my corner of the internet! I'm Xuening, pronounced as Schuening and I'm delighted to have you here. Let me share a bit about myself.
